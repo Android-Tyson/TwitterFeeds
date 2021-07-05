@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TwitterFeeds</string>
+    <string name="data_sample_text">Tue Nov 21 15:01:07 +0000 2017</string>
+    <string name="sample_tweets"><![CDATA[AND has reached 100 #AWS certifications, recognising our expertise in delivering #Cloud solutions. If you\'re embarking on your own #cloudtransformation, make sure you know what you\'re up against. Download our #cloudhandbook for the full run-down &gt;&gt; https://t.co/oWht7uhCfV https://t.co/YENvg16QMw]]></string>
+</resources>

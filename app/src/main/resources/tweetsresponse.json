@@ -1,0 +1,2116 @@
+[
+  {
+    "created_at": "Fri Jul 02 06:43:01 +0000 2021",
+    "id": 1410851484904869893,
+    "id_str": "1410851484904869893",
+    "full_text": "AND has reached 100 #AWS certifications, recognising our expertise in delivering #Cloud solutions. If you're embarking on your own #cloudtransformation, make sure you know what you're up against. Download our #cloudhandbook for the full run-down &gt;&gt; https://t.co/oWht7uhCfV https://t.co/YENvg16QMw",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      278
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "AWS",
+          "indices": [
+            20,
+            24
+          ]
+        },
+        {
+          "text": "Cloud",
+          "indices": [
+            81,
+            87
+          ]
+        },
+        {
+          "text": "cloudtransformation",
+          "indices": [
+            131,
+            151
+          ]
+        },
+        {
+          "text": "cloudhandbook",
+          "indices": [
+            209,
+            223
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/oWht7uhCfV",
+          "expanded_url": "https://hubs.la/H0RqSVn0",
+          "display_url": "hubs.la/H0RqSVn0",
+          "indices": [
+            255,
+            278
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1410851482916823040,
+          "id_str": "1410851482916823040",
+          "indices": [
+            279,
+            302
+          ],
+          "media_url": "http://pbs.twimg.com/media/E5RZ8t4XIAAxLiU.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E5RZ8t4XIAAxLiU.jpg",
+          "url": "https://t.co/YENvg16QMw",
+          "display_url": "pic.twitter.com/YENvg16QMw",
+          "expanded_url": "https://twitter.com/AND_Digital/status/1410851484904869893/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1510,
+              "h": 466,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 370,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 210,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1410851482916823040,
+          "id_str": "1410851482916823040",
+          "indices": [
+            279,
+            302
+          ],
+          "media_url": "http://pbs.twimg.com/media/E5RZ8t4XIAAxLiU.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E5RZ8t4XIAAxLiU.jpg",
+          "url": "https://t.co/YENvg16QMw",
+          "display_url": "pic.twitter.com/YENvg16QMw",
+          "expanded_url": "https://twitter.com/AND_Digital/status/1410851484904869893/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1510,
+              "h": 466,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 370,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 210,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.hubspot.com/\" rel=\"nofollow\">HubSpot</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2362635278,
+      "id_str": "2362635278",
+      "name": "AND Digital",
+      "screen_name": "AND_Digital",
+      "location": "UK & Amsterdam",
+      "description": "AND Digital accelerates the development of world-class digital capabilities, and we power the product development of ambitious companies.",
+      "url": "https://t.co/IXDgt5c2yX",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/IXDgt5c2yX",
+              "expanded_url": "https://and.digital/",
+              "display_url": "and.digital",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2157,
+      "friends_count": 495,
+      "listed_count": 98,
+      "created_at": "Wed Feb 26 12:49:51 +0000 2014",
+      "favourites_count": 2533,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 3264,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1369570768946925568/kmm-pQPn_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1369570768946925568/kmm-pQPn_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2362635278/1620836066",
+      "profile_link_color": "D93621",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Jul 01 13:06:40 +0000 2021",
+    "id": 1410585649598676997,
+    "id_str": "1410585649598676997",
+    "full_text": "The #technology industry is evolving quickly, but this isn't something that happens by chance. The change is led by people - leaders who proactively share ideas and experiences for the good of the industry.\n\nRead our 7 Secrets to Becoming a #TechLeader &gt;\nhttps://t.co/wkNjDFgwhr https://t.co/cD1DBly5OZ",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      281
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "technology",
+          "indices": [
+            4,
+            15
+          ]
+        },
+        {
+          "text": "TechLeader",
+          "indices": [
+            241,
+            252
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/wkNjDFgwhr",
+          "expanded_url": "https://hubs.la/H0Rpc6L0",
+          "display_url": "hubs.la/H0Rpc6L0",
+          "indices": [
+            258,
+            281
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1410585647442759680,
+          "id_str": "1410585647442759680",
+          "indices": [
+            282,
+            305
+          ],
+          "media_url": "http://pbs.twimg.com/media/E5NoLDkXEAANUJJ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E5NoLDkXEAANUJJ.jpg",
+          "url": "https://t.co/cD1DBly5OZ",
+          "display_url": "pic.twitter.com/cD1DBly5OZ",
+          "expanded_url": "https://twitter.com/AND_Digital/status/1410585649598676997/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1410585647442759680,
+          "id_str": "1410585647442759680",
+          "indices": [
+            282,
+            305
+          ],
+          "media_url": "http://pbs.twimg.com/media/E5NoLDkXEAANUJJ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E5NoLDkXEAANUJJ.jpg",
+          "url": "https://t.co/cD1DBly5OZ",
+          "display_url": "pic.twitter.com/cD1DBly5OZ",
+          "expanded_url": "https://twitter.com/AND_Digital/status/1410585649598676997/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.hubspot.com/\" rel=\"nofollow\">HubSpot</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2362635278,
+      "id_str": "2362635278",
+      "name": "AND Digital",
+      "screen_name": "AND_Digital",
+      "location": "UK & Amsterdam",
+      "description": "AND Digital accelerates the development of world-class digital capabilities, and we power the product development of ambitious companies.",
+      "url": "https://t.co/IXDgt5c2yX",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/IXDgt5c2yX",
+              "expanded_url": "https://and.digital/",
+              "display_url": "and.digital",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2157,
+      "friends_count": 495,
+      "listed_count": 98,
+      "created_at": "Wed Feb 26 12:49:51 +0000 2014",
+      "favourites_count": 2533,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 3264,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1369570768946925568/kmm-pQPn_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1369570768946925568/kmm-pQPn_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2362635278/1620836066",
+      "profile_link_color": "D93621",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Jun 30 17:02:24 +0000 2021",
+    "id": 1410282583955578884,
+    "id_str": "1410282583955578884",
+    "full_text": "As part of AND's #Pride celebrations, our LGBT champions will be joining D&amp;I Strategist @VirtualLenna for a special episode of Louise Power's #PowerHour podcast. Tune in live from 11am to hear personal experiences, and how to support the #LGBT community: https://t.co/La3Zhhdqa6 https://t.co/pZmPzQiHez",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      282
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Pride",
+          "indices": [
+            17,
+            23
+          ]
+        },
+        {
+          "text": "PowerHour",
+          "indices": [
+            146,
+            156
+          ]
+        },
+        {
+          "text": "LGBT",
+          "indices": [
+            242,
+            247
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "VirtualLenna",
+          "name": "Lenna Cumberbatch",
+          "id": 939797622159740928,
+          "id_str": "939797622159740928",
+          "indices": [
+            92,
+            105
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/La3Zhhdqa6",
+          "expanded_url": "https://hubs.la/H0Rl0gc0",
+          "display_url": "hubs.la/H0Rl0gc0",
+          "indices": [
+            259,
+            282
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1410282578402234374,
+          "id_str": "1410282578402234374",
+          "indices": [
+            283,
+            306
+          ],
+          "media_url": "http://pbs.twimg.com/media/E5JUiHaWUAYqtFM.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E5JUiHaWUAYqtFM.jpg",
+          "url": "https://t.co/pZmPzQiHez",
+          "display_url": "pic.twitter.com/pZmPzQiHez",
+          "expanded_url": "https://twitter.com/AND_Digital/status/1410282583955578884/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 630,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 357,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1075,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1410282578402234374,
+          "id_str": "1410282578402234374",
+          "indices": [
+            283,
+            306
+          ],
+          "media_url": "http://pbs.twimg.com/media/E5JUiHaWUAYqtFM.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E5JUiHaWUAYqtFM.jpg",
+          "url": "https://t.co/pZmPzQiHez",
+          "display_url": "pic.twitter.com/pZmPzQiHez",
+          "expanded_url": "https://twitter.com/AND_Digital/status/1410282583955578884/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 630,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 357,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1075,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.hubspot.com/\" rel=\"nofollow\">HubSpot</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2362635278,
+      "id_str": "2362635278",
+      "name": "AND Digital",
+      "screen_name": "AND_Digital",
+      "location": "UK & Amsterdam",
+      "description": "AND Digital accelerates the development of world-class digital capabilities, and we power the product development of ambitious companies.",
+      "url": "https://t.co/IXDgt5c2yX",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/IXDgt5c2yX",
+              "expanded_url": "https://and.digital/",
+              "display_url": "and.digital",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2157,
+      "friends_count": 495,
+      "listed_count": 98,
+      "created_at": "Wed Feb 26 12:49:51 +0000 2014",
+      "favourites_count": 2533,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 3264,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1369570768946925568/kmm-pQPn_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1369570768946925568/kmm-pQPn_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2362635278/1620836066",
+      "profile_link_color": "D93621",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Jun 30 13:55:41 +0000 2021",
+    "id": 1410235595545317386,
+    "id_str": "1410235595545317386",
+    "full_text": "So proud to have been involved in the App Design Innovation Challenge, and to see young people engaging with health through tech. A huge well done to all involved, and particularly to our winners at @AstonAcademy 👏 #appdesign #innovation #techforgood https://t.co/Dlhls5tOEw",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      250
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "appdesign",
+          "indices": [
+            215,
+            225
+          ]
+        },
+        {
+          "text": "innovation",
+          "indices": [
+            226,
+            237
+          ]
+        },
+        {
+          "text": "techforgood",
+          "indices": [
+            238,
+            250
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "AstonAcademy",
+          "name": "Aston Academy",
+          "id": 413417683,
+          "id_str": "413417683",
+          "indices": [
+            199,
+            212
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Dlhls5tOEw",
+          "expanded_url": "https://twitter.com/beworkwise/status/1410222123675701251",
+          "display_url": "twitter.com/beworkwise/sta…",
+          "indices": [
+            251,
+            274
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2362635278,
+      "id_str": "2362635278",
+      "name": "AND Digital",
+      "screen_name": "AND_Digital",
+      "location": "UK & Amsterdam",
+      "description": "AND Digital accelerates the development of world-class digital capabilities, and we power the product development of ambitious companies.",
+      "url": "https://t.co/IXDgt5c2yX",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/IXDgt5c2yX",
+              "expanded_url": "https://and.digital/",
+              "display_url": "and.digital",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2157,
+      "friends_count": 495,
+      "listed_count": 98,
+      "created_at": "Wed Feb 26 12:49:51 +0000 2014",
+      "favourites_count": 2533,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 3264,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1369570768946925568/kmm-pQPn_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1369570768946925568/kmm-pQPn_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2362635278/1620836066",
+      "profile_link_color": "D93621",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1410222123675701251,
+    "quoted_status_id_str": "1410222123675701251",
+    "quoted_status_permalink": {
+      "url": "https://t.co/Dlhls5tOEw",
+      "expanded": "https://twitter.com/beworkwise/status/1410222123675701251",
+      "display": "twitter.com/beworkwise/sta…"
+    },
+    "quoted_status": {
+      "created_at": "Wed Jun 30 13:02:09 +0000 2021",
+      "id": 1410222123675701251,
+      "id_str": "1410222123675701251",
+      "full_text": "We were thrilled to visit @AcademyAston with @CityFibre, @AND_Digital and @RotherhamRugby Community Foundation to award the students their trophies for winning our App Design Innovation Challenge which was judged at this years @GUTS_STEM\n\nRead more: https://t.co/5zsDEZIjF6 https://t.co/cfZlMNfDfk",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        273
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AcademyAston",
+            "name": "Aston Academy",
+            "id": 1011553063327404037,
+            "id_str": "1011553063327404037",
+            "indices": [
+              26,
+              39
+            ]
+          },
+          {
+            "screen_name": "CityFibre",
+            "name": "CityFibre",
+            "id": 350830442,
+            "id_str": "350830442",
+            "indices": [
+              45,
+              55
+            ]
+          },
+          {
+            "screen_name": "AND_Digital",
+            "name": "AND Digital",
+            "id": 2362635278,
+            "id_str": "2362635278",
+            "indices": [
+              57,
+              69
+            ]
+          },
+          {
+            "screen_name": "RotherhamRugby",
+            "name": "Rotherham Titans",
+            "id": 161798050,
+            "id_str": "161798050",
+            "indices": [
+              74,
+              89
+            ]
+          },
+          {
+            "screen_name": "GUTS_STEM",
+            "name": "Get up to Speed with STEM",
+            "id": 1116914178,
+            "id_str": "1116914178",
+            "indices": [
+              227,
+              237
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/5zsDEZIjF6",
+            "expanded_url": "http://ow.ly/MJ7y50FkS6P",
+            "display_url": "ow.ly/MJ7y50FkS6P",
+            "indices": [
+              250,
+              273
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1410222119938625540,
+            "id_str": "1410222119938625540",
+            "indices": [
+              274,
+              297
+            ],
+            "media_url": "http://pbs.twimg.com/media/E5Idi-FXEAQnArX.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E5Idi-FXEAQnArX.jpg",
+            "url": "https://t.co/cfZlMNfDfk",
+            "display_url": "pic.twitter.com/cfZlMNfDfk",
+            "expanded_url": "https://twitter.com/beworkwise/status/1410222123675701251/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1280,
+                "h": 853,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 800,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 453,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1410222119938625540,
+            "id_str": "1410222119938625540",
+            "indices": [
+              274,
+              297
+            ],
+            "media_url": "http://pbs.twimg.com/media/E5Idi-FXEAQnArX.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E5Idi-FXEAQnArX.jpg",
+            "url": "https://t.co/cfZlMNfDfk",
+            "display_url": "pic.twitter.com/cfZlMNfDfk",
+            "expanded_url": "https://twitter.com/beworkwise/status/1410222123675701251/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1280,
+                "h": 853,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 800,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 453,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1923615998,
+        "id_str": "1923615998",
+        "name": "The Work-wise Foundation",
+        "screen_name": "beworkwise",
+        "location": "137 Carlisle St, S4 3LJ",
+        "description": "work-wise Foundation is a non-profit, employer-led initiative for STEM related sectors with the aim of developing young people for the world of employment.",
+        "url": "http://t.co/4eQ3f5ZguB",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/4eQ3f5ZguB",
+                "expanded_url": "http://www.work-wise.co.uk",
+                "display_url": "work-wise.co.uk",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1133,
+        "friends_count": 1623,
+        "listed_count": 32,
+        "created_at": "Tue Oct 01 14:22:21 +0000 2013",
+        "favourites_count": 4543,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2913,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1251444282252242946/CHPyseWI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251444282252242946/CHPyseWI_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1923615998/1587204937",
+        "profile_link_color": "00547A",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Jun 28 16:19:17 +0000 2021",
+    "id": 1409546958449033216,
+    "id_str": "1409546958449033216",
+    "full_text": "Inspiring to see the launch of #CivTech6, an initiative led by @scotgov to solve #publicsector challenges. \n\n#Tech companies are invited to propose innovative solutions, which will be brought to life with up to £250k funding. Find out more here &gt;&gt; https://t.co/iIPrwA2e8P",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      277
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "CivTech6",
+          "indices": [
+            31,
+            40
+          ]
+        },
+        {
+          "text": "publicsector",
+          "indices": [
+            81,
+            94
+          ]
+        },
+        {
+          "text": "Tech",
+          "indices": [
+            109,
+            114
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "scotgov",
+          "name": "Scottish Government",
+          "id": 46650770,
+          "id_str": "46650770",
+          "indices": [
+            63,
+            71
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/iIPrwA2e8P",
+          "expanded_url": "https://digit.fyi/civtech-6-challenges/",
+          "display_url": "digit.fyi/civtech-6-chal…",
+          "indices": [
+            254,
+            277
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2362635278,
+      "id_str": "2362635278",
+      "name": "AND Digital",
+      "screen_name": "AND_Digital",
+      "location": "UK & Amsterdam",
+      "description": "AND Digital accelerates the development of world-class digital capabilities, and we power the product development of ambitious companies.",
+      "url": "https://t.co/IXDgt5c2yX",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/IXDgt5c2yX",
+              "expanded_url": "https://and.digital/",
+              "display_url": "and.digital",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2157,
+      "friends_count": 495,
+      "listed_count": 98,
+      "created_at": "Wed Feb 26 12:49:51 +0000 2014",
+      "favourites_count": 2533,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 3264,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1369570768946925568/kmm-pQPn_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1369570768946925568/kmm-pQPn_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2362635278/1620836066",
+      "profile_link_color": "D93621",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Jun 25 15:46:05 +0000 2021",
+    "id": 1408451439622594562,
+    "id_str": "1408451439622594562",
+    "full_text": "We spent the day with @HolbeckTogether this week, making the most of our #volunteering days. Gardening, delivering activity packs to local residents and helping to organise the #community shop. Proud to see our ANDis making a remarkable impact in the community. https://t.co/Od0fGLl45A",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      261
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "volunteering",
+          "indices": [
+            73,
+            86
+          ]
+        },
+        {
+          "text": "community",
+          "indices": [
+            177,
+            187
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "HolbeckTogether",
+          "name": "Holbeck Together",
+          "id": 1894152175,
+          "id_str": "1894152175",
+          "indices": [
+            22,
+            38
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1408451437902848001,
+          "id_str": "1408451437902848001",
+          "indices": [
+            262,
+            285
+          ],
+          "media_url": "http://pbs.twimg.com/media/E4vTHteWYAEHva1.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E4vTHteWYAEHva1.jpg",
+          "url": "https://t.co/Od0fGLl45A",
+          "display_url": "pic.twitter.com/Od0fGLl45A",
+          "expanded_url": "https://twitter.com/AND_Digital/status/1408451439622594562/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1600,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1408451437902848001,
+          "id_str": "1408451437902848001",
+          "indices": [
+            262,
+            285
+          ],
+          "media_url": "http://pbs.twimg.com/media/E4vTHteWYAEHva1.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E4vTHteWYAEHva1.jpg",
+          "url": "https://t.co/Od0fGLl45A",
+          "display_url": "pic.twitter.com/Od0fGLl45A",
+          "expanded_url": "https://twitter.com/AND_Digital/status/1408451439622594562/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1600,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.hubspot.com/\" rel=\"nofollow\">HubSpot</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2362635278,
+      "id_str": "2362635278",
+      "name": "AND Digital",
+      "screen_name": "AND_Digital",
+      "location": "UK & Amsterdam",
+      "description": "AND Digital accelerates the development of world-class digital capabilities, and we power the product development of ambitious companies.",
+      "url": "https://t.co/IXDgt5c2yX",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/IXDgt5c2yX",
+              "expanded_url": "https://and.digital/",
+              "display_url": "and.digital",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2157,
+      "friends_count": 495,
+      "listed_count": 98,
+      "created_at": "Wed Feb 26 12:49:51 +0000 2014",
+      "favourites_count": 2533,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 3264,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1369570768946925568/kmm-pQPn_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1369570768946925568/kmm-pQPn_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2362635278/1620836066",
+      "profile_link_color": "D93621",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Jun 25 10:01:00 +0000 2021",
+    "id": 1408364595564195843,
+    "id_str": "1408364595564195843",
+    "full_text": "When you think of the #techindustry, do you automatically think of #developers? There's a lot more to building #digital products than just coding. Join us on 8th July for an interactive workshop, to learn where your skills could fit in as a non-developer.\nhttps://t.co/rsfO8Y2DAW https://t.co/1nIqqrAvvD",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      279
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "techindustry",
+          "indices": [
+            22,
+            35
+          ]
+        },
+        {
+          "text": "developers",
+          "indices": [
+            67,
+            78
+          ]
+        },
+        {
+          "text": "digital",
+          "indices": [
+            111,
+            119
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/rsfO8Y2DAW",
+          "expanded_url": "https://hubs.la/H0QZvFs0",
+          "display_url": "hubs.la/H0QZvFs0",
+          "indices": [
+            256,
+            279
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1408364594171686917,
+          "id_str": "1408364594171686917",
+          "indices": [
+            280,
+            303
+          ],
+          "media_url": "http://pbs.twimg.com/media/E4uEIvXXMAUMofR.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E4uEIvXXMAUMofR.jpg",
+          "url": "https://t.co/1nIqqrAvvD",
+          "display_url": "pic.twitter.com/1nIqqrAvvD",
+          "expanded_url": "https://twitter.com/AND_Digital/status/1408364595564195843/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 630,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 357,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1200,
+              "h": 630,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1408364594171686917,
+          "id_str": "1408364594171686917",
+          "indices": [
+            280,
+            303
+          ],
+          "media_url": "http://pbs.twimg.com/media/E4uEIvXXMAUMofR.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E4uEIvXXMAUMofR.jpg",
+          "url": "https://t.co/1nIqqrAvvD",
+          "display_url": "pic.twitter.com/1nIqqrAvvD",
+          "expanded_url": "https://twitter.com/AND_Digital/status/1408364595564195843/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 630,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 357,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1200,
+              "h": 630,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.hubspot.com/\" rel=\"nofollow\">HubSpot</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2362635278,
+      "id_str": "2362635278",
+      "name": "AND Digital",
+      "screen_name": "AND_Digital",
+      "location": "UK & Amsterdam",
+      "description": "AND Digital accelerates the development of world-class digital capabilities, and we power the product development of ambitious companies.",
+      "url": "https://t.co/IXDgt5c2yX",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/IXDgt5c2yX",
+              "expanded_url": "https://and.digital/",
+              "display_url": "and.digital",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2157,
+      "friends_count": 495,
+      "listed_count": 98,
+      "created_at": "Wed Feb 26 12:49:51 +0000 2014",
+      "favourites_count": 2533,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 3264,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1369570768946925568/kmm-pQPn_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1369570768946925568/kmm-pQPn_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2362635278/1620836066",
+      "profile_link_color": "D93621",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Jun 24 15:54:00 +0000 2021",
+    "id": 1408091043891908616,
+    "id_str": "1408091043891908616",
+    "full_text": "As the UK sits in wait for the delayed easing of #restrictions, our #Agile teams are drawing parallels between the #covidroadmap and #projectdelivery roadmaps. Learn why #datanotdates is key to project delivery, and how to successfully plan without dates  https://t.co/BOfQQEhYRI https://t.co/RmgAonp9EK",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      279
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "restrictions",
+          "indices": [
+            49,
+            62
+          ]
+        },
+        {
+          "text": "Agile",
+          "indices": [
+            68,
+            74
+          ]
+        },
+        {
+          "text": "covidroadmap",
+          "indices": [
+            115,
+            128
+          ]
+        },
+        {
+          "text": "projectdelivery",
+          "indices": [
+            133,
+            149
+          ]
+        },
+        {
+          "text": "datanotdates",
+          "indices": [
+            170,
+            183
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/BOfQQEhYRI",
+          "expanded_url": "https://hubs.la/H0QYyVp0",
+          "display_url": "hubs.la/H0QYyVp0",
+          "indices": [
+            256,
+            279
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1408091040997851141,
+          "id_str": "1408091040997851141",
+          "indices": [
+            280,
+            303
+          ],
+          "media_url": "http://pbs.twimg.com/media/E4qLV2YWQAU0ZR5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E4qLV2YWQAU0ZR5.jpg",
+          "url": "https://t.co/RmgAonp9EK",
+          "display_url": "pic.twitter.com/RmgAonp9EK",
+          "expanded_url": "https://twitter.com/AND_Digital/status/1408091043891908616/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1200,
+              "h": 630,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 357,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 630,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1408091040997851141,
+          "id_str": "1408091040997851141",
+          "indices": [
+            280,
+            303
+          ],
+          "media_url": "http://pbs.twimg.com/media/E4qLV2YWQAU0ZR5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E4qLV2YWQAU0ZR5.jpg",
+          "url": "https://t.co/RmgAonp9EK",
+          "display_url": "pic.twitter.com/RmgAonp9EK",
+          "expanded_url": "https://twitter.com/AND_Digital/status/1408091043891908616/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1200,
+              "h": 630,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 357,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 630,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.hubspot.com/\" rel=\"nofollow\">HubSpot</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2362635278,
+      "id_str": "2362635278",
+      "name": "AND Digital",
+      "screen_name": "AND_Digital",
+      "location": "UK & Amsterdam",
+      "description": "AND Digital accelerates the development of world-class digital capabilities, and we power the product development of ambitious companies.",
+      "url": "https://t.co/IXDgt5c2yX",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/IXDgt5c2yX",
+              "expanded_url": "https://and.digital/",
+              "display_url": "and.digital",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2157,
+      "friends_count": 495,
+      "listed_count": 98,
+      "created_at": "Wed Feb 26 12:49:51 +0000 2014",
+      "favourites_count": 2533,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 3264,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1369570768946925568/kmm-pQPn_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1369570768946925568/kmm-pQPn_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2362635278/1620836066",
+      "profile_link_color": "D93621",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Jun 24 14:27:09 +0000 2021",
+    "id": 1408069188191621124,
+    "id_str": "1408069188191621124",
+    "full_text": "A huge good luck to our #Cloud Exec Tina Howell, who's up for Digital Transformation Leader of the Year at today's @womeninitawards! Since joining AND, Tina has worked to establish a dedicated #CloudEngineering practice here at AND, helping businesses reach their Cloud potential https://t.co/3PYbmKuNys",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      279
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Cloud",
+          "indices": [
+            24,
+            30
+          ]
+        },
+        {
+          "text": "CloudEngineering",
+          "indices": [
+            193,
+            210
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "womeninitawards",
+          "name": "Women in IT Summit & Awards Series",
+          "id": 4170439413,
+          "id_str": "4170439413",
+          "indices": [
+            115,
+            131
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1408069175084412938,
+          "id_str": "1408069175084412938",
+          "indices": [
+            280,
+            303
+          ],
+          "media_url": "http://pbs.twimg.com/media/E4p3dFgVcAoVjq5.png",
+          "media_url_https": "https://pbs.twimg.com/media/E4p3dFgVcAoVjq5.png",
+          "url": "https://t.co/3PYbmKuNys",
+          "display_url": "pic.twitter.com/3PYbmKuNys",
+          "expanded_url": "https://twitter.com/AND_Digital/status/1408069188191621124/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 480,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 770,
+              "h": 544,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 770,
+              "h": 544,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1408069175084412938,
+          "id_str": "1408069175084412938",
+          "indices": [
+            280,
+            303
+          ],
+          "media_url": "http://pbs.twimg.com/media/E4p3dFgVcAoVjq5.png",
+          "media_url_https": "https://pbs.twimg.com/media/E4p3dFgVcAoVjq5.png",
+          "url": "https://t.co/3PYbmKuNys",
+          "display_url": "pic.twitter.com/3PYbmKuNys",
+          "expanded_url": "https://twitter.com/AND_Digital/status/1408069188191621124/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 480,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 770,
+              "h": 544,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 770,
+              "h": 544,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2362635278,
+      "id_str": "2362635278",
+      "name": "AND Digital",
+      "screen_name": "AND_Digital",
+      "location": "UK & Amsterdam",
+      "description": "AND Digital accelerates the development of world-class digital capabilities, and we power the product development of ambitious companies.",
+      "url": "https://t.co/IXDgt5c2yX",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/IXDgt5c2yX",
+              "expanded_url": "https://and.digital/",
+              "display_url": "and.digital",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2157,
+      "friends_count": 495,
+      "listed_count": 98,
+      "created_at": "Wed Feb 26 12:49:51 +0000 2014",
+      "favourites_count": 2533,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 3264,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1369570768946925568/kmm-pQPn_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1369570768946925568/kmm-pQPn_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2362635278/1620836066",
+      "profile_link_color": "D93621",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jun 22 15:53:46 +0000 2021",
+    "id": 1407366209620828162,
+    "id_str": "1407366209620828162",
+    "full_text": "The #government estimates that 48% of businesses lack the skills to manage #cybersecurity, meaning it's no longer a question of if a breach will happen; it's when. Jeff Watkins stresses the need to address the #cyber skills gap &gt;&gt; https://t.co/XNr35KGU8b @SiliconRepublic",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      277
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "government",
+          "indices": [
+            4,
+            15
+          ]
+        },
+        {
+          "text": "cybersecurity",
+          "indices": [
+            75,
+            89
+          ]
+        },
+        {
+          "text": "cyber",
+          "indices": [
+            210,
+            216
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "siliconrepublic",
+          "name": "Silicon Republic",
+          "id": 14385329,
+          "id_str": "14385329",
+          "indices": [
+            261,
+            277
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/XNr35KGU8b",
+          "expanded_url": "https://hubs.la/H0QNF880",
+          "display_url": "hubs.la/H0QNF880",
+          "indices": [
+            237,
+            260
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.hubspot.com/\" rel=\"nofollow\">HubSpot</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2362635278,
+      "id_str": "2362635278",
+      "name": "AND Digital",
+      "screen_name": "AND_Digital",
+      "location": "UK & Amsterdam",
+      "description": "AND Digital accelerates the development of world-class digital capabilities, and we power the product development of ambitious companies.",
+      "url": "https://t.co/IXDgt5c2yX",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/IXDgt5c2yX",
+              "expanded_url": "https://and.digital/",
+              "display_url": "and.digital",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2157,
+      "friends_count": 495,
+      "listed_count": 98,
+      "created_at": "Wed Feb 26 12:49:51 +0000 2014",
+      "favourites_count": 2533,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 3264,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1369570768946925568/kmm-pQPn_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1369570768946925568/kmm-pQPn_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2362635278/1620836066",
+      "profile_link_color": "D93621",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]
