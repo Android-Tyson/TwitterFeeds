@@ -8,20 +8,21 @@ import androidx.recyclerview.widget.RecyclerView
 import com.anddigital.twitterfeeds.data.model.ApiTweetResponse
 import com.anddigital.twitterfeeds.data.model.ApiTweetResponseItem
 import com.anddigital.twitterfeeds.databinding.TweetsListItemBinding
+import com.anddigital.twitterfeeds.domain.entity.Tweets
 
 class TweetsListAdapter : RecyclerView.Adapter<TweetsListAdapter.TweetViewHolder>() {
 
-    private val callback = object : DiffUtil.ItemCallback<ApiTweetResponseItem>() {
+    private val callback = object : DiffUtil.ItemCallback<Tweets>() {
         override fun areItemsTheSame(
-            oldItem: ApiTweetResponseItem,
-            newItem: ApiTweetResponseItem
+            oldItem: Tweets,
+            newItem: Tweets
         ): Boolean {
-            return oldItem.fullText == newItem.fullText
+            return oldItem.tweet == newItem.tweet
         }
 
         override fun areContentsTheSame(
-            oldItem: ApiTweetResponseItem,
-            newItem: ApiTweetResponseItem
+            oldItem: Tweets,
+            newItem: Tweets
         ): Boolean {
             return oldItem == newItem
         }
@@ -47,9 +48,9 @@ class TweetsListAdapter : RecyclerView.Adapter<TweetsListAdapter.TweetViewHolder
     inner class TweetViewHolder(private val binding: TweetsListItemBinding) :
         RecyclerView.ViewHolder(binding.root) {
 
-        fun bind(responseItem: ApiTweetResponseItem) {
-            binding.textViewDateTime.text = responseItem.createdAt
-            binding.textViewTweets.text = responseItem.fullText
+        fun bind(tweets: Tweets) {
+            binding.textViewDateTime.text = tweets.createdAt
+            binding.textViewTweets.text = tweets.tweet
         }
     }
 }

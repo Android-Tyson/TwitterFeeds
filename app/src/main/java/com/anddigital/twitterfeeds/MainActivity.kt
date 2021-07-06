@@ -2,6 +2,7 @@ package com.anddigital.twitterfeeds
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.util.Log
 import android.view.View
 import android.widget.Toast
 import androidx.lifecycle.Observer
@@ -21,6 +22,7 @@ class MainActivity : AppCompatActivity() {
 
     @Inject
     lateinit var factory: TweetViewModelFactory
+
     @Inject
     lateinit var tweetsAdapter: TweetsListAdapter
     private lateinit var binding: ActivityMainBinding
@@ -43,6 +45,7 @@ class MainActivity : AppCompatActivity() {
                 is Resource.Success -> {
                     hideProgressBar()
                     response.data?.let {
+                        Log.d("List in Activity  ", it.toString())
                         tweetsAdapter.differ.submitList(it)
                     }
                 }

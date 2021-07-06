@@ -8,6 +8,7 @@ import android.os.Build
 import androidx.lifecycle.*
 import com.anddigital.twitterfeeds.data.model.ApiTweetResponse
 import com.anddigital.twitterfeeds.data.utils.Resource
+import com.anddigital.twitterfeeds.domain.entity.Tweets
 import com.anddigital.twitterfeeds.domain.repository.TweetsRepository
 import com.anddigital.twitterfeeds.domain.usecase.GetTweetsUseCase
 import kotlinx.coroutines.Dispatchers
@@ -18,7 +19,9 @@ class TweetsViewModel(
     private val getTweetsUseCase: GetTweetsUseCase
 ) : AndroidViewModel(appContext) {
 
-    val tweets: MutableLiveData<Resource<ApiTweetResponse>> = MutableLiveData()
+//    val tweets: MutableLiveData<Resource<ApiTweetResponse>> = MutableLiveData()
+        val tweets: MutableLiveData<Resource<List<Tweets>>> = MutableLiveData()
+
 
     fun getTweets() = viewModelScope.launch(Dispatchers.IO) {
         tweets.postValue(Resource.Loading())
